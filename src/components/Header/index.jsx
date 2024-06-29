@@ -1,4 +1,5 @@
 import styles from "./Header.module.css";
+import user from '../../assets/images/user.webp'
 import home from '../../assets/icons/home-2.svg'
 import car from '../../assets/icons/car.svg'
 import award from '../../assets/icons/award.svg'
@@ -15,7 +16,7 @@ function Header() {
         <div className={styles.user_area}>
           <div className={styles.circle_img}>
             <img
-              src="https://s2.glbimg.com/khtwDhvIrhx3-12UEnSoQPyeVnM=/e.glbimg.com/og/ed/f/original/2017/12/06/pidgeon-425672_1920.jpg"
+              src={user}
               alt="User"
             />
           </div>
