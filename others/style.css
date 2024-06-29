@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 300vh;
+    font-family: "Nunito", sans-serif;
+}
+
+.card {
+    width: 283px;
+    height: 45vh;
+    border-radius: 20px;
+    box-shadow: 4px 0px 16px rgba(0, 0, 0, 60%);
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.card-img {
+    width: 283px;
+    height: 52%;
+    border-radius: 20px 0px 20px 0px;
+}
+
+.card-img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.titulo {
+    text-align: center;
+    width: 100%;
+}

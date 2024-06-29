@@ -1,0 +1,748 @@
+{
+  "chassis": [
+    {
+      "id": 1,
+      "name": "Ace",
+      "rarity": "Limited",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/ffcc7f06a01701885935.png"
+    },
+    {
+      "id": 2,
+      "name": "Animus GP",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/a/a5/Animus_GP_body_icon.png/revision/latest?cb=20170705230526"
+    },
+    {
+      "id": 3,
+      "name": "Breakout",
+      "rarity": "Rare",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/6/6b/Breakout_body_icon.png/revision/latest?cb=20170527084936"
+    },
+    {
+      "id": 4,
+      "name": "Breakout Type-S",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/0/04/Breakout_Type-S_body_icon.png/revision/latest?cb=20170522201553"
+    },
+    {
+      "id": 5,
+      "name": "Cyclone",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/7/73/Cyclone_body_icon.png/revision/latest?cb=20180731165111"
+    },
+    {
+      "id": 6,
+      "name": "Diesel",
+      "rarity": "Rare",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/a/a4/Emperor_body_icon.png/revision/latest?cb=20230327213636"
+    },
+    {
+      "id": 7,
+      "name": "Emperor/Emperor II",
+      "rarity": "Rare",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/a/a4/Emperor_body_icon.png/revision/latest?cb=20230327213636"
+    },
+    {
+      "id": 8,
+      "name": "Komodo",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/6/65/Komodo_body_icon.png/revision/latest?cb=20200312000922"
+    },
+    {
+      "id": 9,
+      "name": "Mazda-RX7",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/d290be1a8d1708423180.png"
+    },
+    {
+      "id": 10,
+      "name": "Nexus/Nexus SC",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/a/aa/Nexus_body_icon.png/revision/latest?cb=20211117144932"
+    },
+    {
+      "id": 11,
+      "name": "Redline",
+      "rarity": "Limited",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/redline/redline-Orange.png"
+    },
+    {
+      "id": 12,
+      "name": "Samurai",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/9/9a/Samurai_body_icon.png/revision/latest?cb=20180502053558"
+    },
+    {
+      "id": 13,
+      "name": "Whiplash",
+      "rarity": "Limited",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/8/83/Whiplash_is_a_supercar.png/revision/latest?cb=20231224031813"
+    },
+    {
+      "id": 14,
+      "name": "‘89 Batmobile",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/6/6f/Batmobile_%281989%29_body_icon.png/revision/latest?cb=20180313174159"
+    },
+    {
+      "id": 15,
+      "name": "007’s Aston Martin DBS",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/c/c8/007%27s_Aston_Martin_DBS_body_icon.png/revision/latest/scale-to-width/360?cb=20220713222656"
+    },
+    {
+      "id": 16,
+      "name": "007's Aston Martin Valhalla",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/8/87/007%27s_Aston_Martin_Valhalla_body_icon.png/revision/latest?cb=20211009114727"
+    },
+    {
+      "id": 17,
+      "name": "Aftershock",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/0/0d/Aftershock_body_icon.png/revision/latest?cb=20170531180025"
+    },
+    {
+      "id": 18,
+      "name": "Batmobile (2022)",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/5/54/Batmobile_%282022%29_body_icon.png/revision/latest/scale-to-width/360?cb=20220323134816"
+    },
+    {
+      "id": 19,
+      "name": "Bumblebee Car",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/26d187c18f1686729666.png"
+    },
+    {
+      "id": 20,
+      "name": "BMW M240i",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/f/fc/BMW_M240i_body_icon.png/revision/latest?cb=20211103205517"
+    },
+    {
+      "id": 21,
+      "name": "Chikara/Chikara G1/Chikara GXT",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/8/81/Chikara_body_icon.png/revision/latest?cb=20191206122451"
+    },
+    {
+      "id": 22,
+      "name": "DeLorean Time Machine",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/a/a4/DeLorean_Time_Machine_body_icon.png/revision/latest?cb=20170530114123"
+    },
+    {
+      "id": 23,
+      "name": "Diestro",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/7/72/Diestro_body_icon.png/revision/latest?cb=20190225203205"
+    },
+    {
+      "id": 24,
+      "name": "Dominus",
+      "rarity": "Rare",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/2/2b/Dominus_body_icon.png/revision/latest?cb=20170529160106"
+    },
+    {
+      "id": 25,
+      "name": "Dominus GT",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/9/98/Dominus_GT_body_icon.png/revision/latest?cb=20170523201643"
+    },
+    {
+      "id": 26,
+      "name": "Ecto-1 (Ghostbusters)",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/7/7e/Ecto-1_body_icon.png/revision/latest?cb=20190611224711"
+    },
+    {
+      "id": 27,
+      "name": "Fast and Furious Dodge Charger",
+      "rarity": "Premium",
+      "image": "https://rocketleague.fandom.com/wiki/Special:FilePath/Fast_%26_Furious_Dodge_Charger_body_icon.png"
+    },
+    {
+      "id": 28,
+      "name": "Ferrari 296 GTB",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/9c809abedd1661890281.png"
+    },
+    {
+      "id": 29,
+      "name": "Ford Mustang Shelby GT350R RLE",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/d/d4/Ford_Mustang_Shelby_GT350R_RLE_body_icon.png/revision/latest?cb=20211209161016"
+    },
+    {
+      "id": 30,
+      "name": "Gazella GT (Hot Wheels)",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/3/3e/Gazella_GT_body_icon.png/revision/latest?cb=20200514152707"
+    },
+    {
+      "id": 31,
+      "name": "Guardian/Guardian G1/Guardian GXT",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/e/e9/Guardian_body_icon.png/revision/latest?cb=20190419033038"
+    },
+    {
+      "id": 32,
+      "name": "Hotshot",
+      "rarity": "Rare",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/7/74/Hotshot_body_icon.png/revision/latest?cb=20170528120303"
+    },
+    {
+      "id": 33,
+      "name": "Ice Charger",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/c/cb/Ice_Charger_body_icon.png/revision/latest?cb=20170530125858"
+    },
+    {
+      "id": 34,
+      "name": "Imperator DT5",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/e/e5/Imperator_DT5_body_icon.png/revision/latest?cb=20171204230559"
+    },
+    {
+      "id": 35,
+      "name": "K.I.T.T. (Knight Rider)",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/f/fb/K.I.T.T._body_icon.png/revision/latest?cb=20190820003215"
+    },
+    {
+      "id": 36,
+      "name": "Lamborghini Countach LPI 800-4",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/a/a4/Lamborghini_Countach_LPI_800-4_body_icon.png/revision/latest/scale-to-width/360?cb=20220331141957"
+    },
+    {
+      "id": 37,
+      "name": "Lamborghini Huracán STO",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/9/94/Lamborghini_Hurac%C3%A1n_STO_body_icon.png/revision/latest?cb=20210428183401"
+    },
+    {
+      "id": 38,
+      "name": "Lightning McQueen Car",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/f/fb/Lightning_McQueen_is_a_donimus_body.png/revision/latest?cb=20231224011834"
+    },
+    {
+      "id": 39,
+      "name": "Maestro",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/1/1e/Maestro_body_icon.png/revision/latest?cb=20220716010314"
+    },
+    {
+      "id": 40,
+      "name": "Mamba",
+      "rarity": "Limited",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/3/35/Mamba_body_icon.png/revision/latest?cb=20220309155622"
+    },
+    {
+      "id": 41,
+      "name": "Masamune",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/5/53/Masamune_body_icon.png/revision/latest?cb=20170601162653"
+    },
+    {
+      "id": 42,
+      "name": "Maverick/Maverick G1/Maverick GXT",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/d/dc/Maverick_body_icon.png/revision/latest?cb=20180918002859"
+    },
+    {
+      "id": 43,
+      "name": "McLaren 570S",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/2/23/McLaren_570S_body_icon.png/revision/latest?cb=20181207040139"
+    },
+    {
+      "id": 44,
+      "name": "McLaren 765LT",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/3/37/McLaren_765LT_body_icon.png/revision/latest/scale-to-width/360?cb=20220113005430"
+    },
+    {
+      "id": 45,
+      "name": "MR11 (Hot Wheels)",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/1/18/MR11_body_icon.png/revision/latest?cb=20200514152708"
+    },
+    {
+      "id": 46,
+      "name": "NASCAR Chevrolet Camaro",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/b/b2/NASCAR_Chevrolet_Camaro_body_icon.png/revision/latest?cb=20210506144156"
+    },
+    {
+      "id": 47,
+      "name": "NASCAR Ford Mustang",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/8/88/NASCAR_Ford_Mustang_body_icon.png/revision/latest?cb=20210506144205"
+    },
+    {
+      "id": 48,
+      "name": "NASCAR Toyota Camry",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/e/e8/NASCAR_Toyota_Camry_body_icon.png/revision/latest?cb=20210506144214"
+    },
+    {
+      "id": 49,
+      "name": "NASCAR Next Gen Chevrolet Camaro (2022)",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/71eb148e121648667283.png"
+    },
+    {
+      "id": 50,
+      "name": "NASCAR Next Gen Ford Mustang (2022)",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/71eb148e121648667283.png"
+    },
+    {
+      "id": 51,
+      "name": "NASCAR Next Gen Toyota Camry (2022)",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/7d3a7a85cb1648667290.png"
+    },
+    {
+      "id": 52,
+      "name": "Nemesis",
+      "rarity": "Limited",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/c/c6/Nemesis_body_icon.png/revision/latest?cb=20191004051354"
+    },
+    {
+      "id": 53,
+      "name": "Nissan Z Performance Car",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/a97d504f351653643083.png"
+    },
+    {
+      "id": 54,
+      "name": "Peregrine TT",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/8/8a/Peregrine_TT_body_icon.png/revision/latest?cb=20200623143107"
+    },
+    {
+      "id": 55,
+      "name": "Porsche 911 Turbo",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/a0fd64542d1694011467.png"
+    },
+    {
+      "id": 56,
+      "name": "Ripper",
+      "rarity": "Rare",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/d/d7/Ripper_body_icon.png/revision/latest?cb=20170602172025"
+    },
+    {
+      "id": 57,
+      "name": "Ronin/Ronin G1/Ronin GXT",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/a/a4/Ronin_body_icon.png/revision/latest?cb=20200327224118"
+    },
+    {
+      "id": 58,
+      "name": "Samus’ Gunship",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/8/8c/Samus%27_Gunship_body_icon.png/revision/latest?cb=20171118120002"
+    },
+    {
+      "id": 59,
+      "name": "Scorpion",
+      "rarity": "Limited",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/21fabf60971701885979.png"
+    },
+    {
+      "id": 60,
+      "name": "Tyranno/Tyranno GXT",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/7/73/Tyranno_body_icon.png/revision/latest?cb=20210407190201"
+    },
+    {
+      "id": 61,
+      "name": "Werewolf",
+      "rarity": "Import",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/8/8d/Werewolf_body_icon.png/revision/latest?cb=20180208171815"
+    },
+    {
+      "id": 62,
+      "name": "Endo",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/1f5724c5fb1490221547.png"
+    },
+    {
+      "id": 63,
+      "name": "Esper",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/b7a927c24a1600443180.png"
+    },
+    {
+      "id": 64,
+      "name": "Fast and Furious Nissan Skyline",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/7d631f5c941507752286.png"
+    },
+    {
+      "id": 65,
+      "name": "Fast and Furious Pontiac Fiero",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/c0a327a4671623927547.png"
+    },
+    {
+      "id": 66,
+      "name": "Insidio",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/e16f8d96021603151503.png"
+    },
+    {
+      "id": 67,
+      "name": "Jäger 619 RS",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/d02e13ec9f1506786587.png"
+    },
+    {
+      "id": 68,
+      "name": "Nimbus",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/2d78d2cffa1539016064.png"
+    },
+    {
+      "id": 69,
+      "name": "Nissan Silvia/Nissan Silvia RLE",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/c518917b981686157003.png"
+    },
+    {
+      "id": 70,
+      "name": "Primo",
+      "rarity": "Limited",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/3bbccec2b31701885956.png"
+    },
+    {
+      "id": 71,
+      "name": "R3MX/R3MX GXT",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/88dec781681607535772.png"
+    },
+    {
+      "id": 72,
+      "name": "Tygris",
+      "rarity": "Limited",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/538155de741614103939.png"
+    },
+    {
+      "id": 73,
+      "name": "Venom",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/4773372fef1600445113.png"
+    },
+    {
+      "id": 74,
+      "name": "X-Devil",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/095928b7bd1600445068.png"
+    },
+    {
+      "id": 75,
+      "name": "X-Devil MK2",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/fa26b845f91473412371.png"
+    },
+    {
+      "id": 76,
+      "name": "Battle Bus",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/4df829ee2e1601164675.png"
+    },
+    {
+      "id": 77,
+      "name": "Ford Bronco Raptor RLE",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/4a1074f7351659628128.png"
+    },
+    {
+      "id": 78,
+      "name": "Merc",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/f06410cb161600442941.png"
+    },
+    {
+      "id": 79,
+      "name": "Nomad/Nomad GXT",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/25fe16f7601646812498.png"
+    },
+    {
+      "id": 80,
+      "name": "007’s Aston Martin DB5",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/4b37a85a971627560755.png"
+    },
+    {
+      "id": 81,
+      "name": "Armadillo",
+      "rarity": "Limited",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/a9ea160e791509568760.png"
+    },
+    {
+      "id": 82,
+      "name": "Backfire",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/3c7ff0545e1600442975.png"
+    },
+    {
+      "id": 83,
+      "name": "Bone Shaker",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/7e50bdd6fd1487707163.png"
+    },
+    {
+      "id": 84,
+      "name": "Dingo",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/2549bad5ec1628023034.png"
+    },
+    {
+      "id": 85,
+      "name": "Fast 4WD (Hot Wheels)",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/1db2c2b85e1538916457.png"
+    },
+    {
+      "id": 86,
+      "name": "Fennec",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/59a07ffb751560084126.png"
+    },
+    {
+      "id": 87,
+      "name": "Ford F-150 RLE",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/60d8fbf9291613743607.png"
+    },
+    {
+      "id": 88,
+      "name": "Ford Mustang Mach-E RLE",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/7eb63071111638969365.png"
+    },
+    {
+      "id": 89,
+      "name": "Gizmo",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/51c0360c881600441830.png"
+    },
+    {
+      "id": 90,
+      "name": "Grog",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/6d576caa171641285142.png"
+    },
+    {
+      "id": 91,
+      "name": "Harbinger/Harbinger GXT",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/5d8ae9fa041600942276.png"
+    },
+    {
+      "id": 92,
+      "name": "Hogsticker",
+      "rarity": "Limited",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/269befbbba1509568078.png"
+    },
+    {
+      "id": 93,
+      "name": "Honda Civic Type R/Honda Civic Type R-LE",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/074833eeb91662531042.png"
+    },
+    {
+      "id": 94,
+      "name": "Jackal",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/d1c73cf8ac1637911413.png"
+    },
+    {
+      "id": 95,
+      "name": "Jurassic Jeep Wrangler",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/67e36792c31529540273.png"
+    },
+    {
+      "id": 96,
+      "name": "Marauder",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/beda88924c1641286470.png"
+    },
+    {
+      "id": 97,
+      "name": "Mario NSR/Luigi NSR",
+      "rarity": "Limited",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/d723df3c081510618307.png"
+    },
+    {
+      "id": 98,
+      "name": "Mudcat/Mudcat G1/Mudcat GXT",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/74ac403f391566940808.png"
+    },
+    {
+      "id": 99,
+      "name": "Octane",
+      "rarity": "Common",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/1d349731e61509568153.png"
+    },
+    {
+      "id": 100,
+      "name": "Octane ZSR",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/6db50395201481302229.png"
+    },
+    {
+      "id": 101,
+      "name": "Outlaw/Outlaw GXT",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/382ea01d0e1628668011.png"
+    },
+    {
+      "id": 102,
+      "name": "Proteus",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/79b3c9d2d21475938184.png"
+    },
+    {
+      "id": 103,
+      "name": "Road Hog",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/2e728e55941600443110.png"
+    },
+    {
+      "id": 104,
+      "name": "Road Hog XL",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/1e05b9143a1641286721.png"
+    },
+    {
+      "id": 105,
+      "name": "Scarab",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/c484fefe711520345137.png"
+    },
+    {
+      "id": 106,
+      "name": "Sweet Tooth",
+      "rarity": "Limited",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/c111b503e21620156982.png"
+    },
+    {
+      "id": 107,
+      "name": "Takumi",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/47748e5c631600443263.png"
+    },
+    {
+      "id": 108,
+      "name": "Takumi RX-T",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/7bd39778fe1473412354.png"
+    },
+    {
+      "id": 109,
+      "name": "Triton",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/62643796791641286514.png"
+    },
+    {
+      "id": 110,
+      "name": "The Dark Knight Tumbler",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/96e8b361f11520288595.png"
+    },
+    {
+      "id": 111,
+      "name": "Twinzer",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/ffe9cb78061527626246.png"
+    },
+    {
+      "id": 112,
+      "name": "Volkswagen Golf GTI RLE/Volkswagen Golf GTI",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/cfcab1870f1678268809.png"
+    },
+    {
+      "id": 113,
+      "name": "Vulcan",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/3a8007c2ba1641286642.png"
+    },
+    {
+      "id": 114,
+      "name": "Zippy",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/7244fbd8c01520345219.png"
+    },
+    {
+      "id": 115,
+      "name": "‘16 Batmobile",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/9e97acd0931457510614.png"
+    },
+    {
+      "id": 116,
+      "name": "Bugatti Centodieci",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/e2c444c9441671212726.png"
+    },
+    {
+      "id": 117,
+      "name": "Artemis/Artemis G1/Artemis GXT",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/f4da1a41201544467975.png"
+    },
+    {
+      "id": 118,
+      "name": "Centio",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/cbe61ba9141499307544.png"
+    },
+    {
+      "id": 119,
+      "name": "Formula 1 2021",
+      "rarity": "Premium",
+      "image": "https://static.wikia.nocookie.net/rocketleague/images/6/6a/Formula_1_2021_body_icon.png/revision/latest/scale-to-width/360?cb=20210519194649"
+    },
+    {
+      "id": 120,
+      "name": "Formula 1 2022",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/1acc4c67ae1651119512.png"
+    },
+    {
+      "id": 121,
+      "name": "Mantis",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/76c4b20ea71494793660.png"
+    },
+    {
+      "id": 122,
+      "name": "Paladin",
+      "rarity": "Rare",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/3a5202083e1600441729.png"
+    },
+    {
+      "id": 123,
+      "name": "Sentinel",
+      "rarity": "Import",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/a944d78ddc1570120664.png"
+    },
+    {
+      "id": 124,
+      "name": "Twin Mill III",
+      "rarity": "Premium",
+      "image": "https://rocket-league.com/content/media/items/avatar/220px/4bc00247701487707111.png"
+    }
+  ]
+}
