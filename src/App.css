@@ -7,9 +7,9 @@ body {
   font-family: "Inter", sans-serif;
   display: flex;
   height: 300vh;
-}
+} 
 
-#root{
+main{
   display: grid;
   grid-template-columns: 300px 1fr;
 }

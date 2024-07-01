@@ -95,13 +95,17 @@ li img {
     background-color: #3CA1FF;
 }
 
-a {
-    text-decoration: none;
-    /* padding: 10px 60px; */
-    color: #000;
-}
 
 li:hover {
     background-color: #3ca1ff73;
     border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.frescura img {
+    margin-left: -56px;
 }

@@ -4,6 +4,7 @@ import home from '../../assets/icons/home-2.svg'
 import car from '../../assets/icons/car.svg'
 import award from '../../assets/icons/award.svg'
 import logout from '../../assets/icons/log-in-1.svg'
+import { Link } from 'react-router-dom'
 
 function Header() {
   return (
@@ -25,9 +26,9 @@ function Header() {
         </div>
         <div className={styles.nav_bar}>
             <ul>
-                <li className={styles.active}><img src={home} /><a href="#" >Home</a></li>
-                <li><img src={car} /><a href="#">Cars</a></li>
-                <li><img src={award} /><a href="#">Pass</a></li>
+                <li className={styles.active}><img src={home} /><Link to="/">Home</Link></li>
+                <li><img src={car} /> <Link to="/chassis">Chassis</Link></li>
+                <li className={styles.frescura}><img src={award} /><Link to="/pass">Pass</Link></li>
             </ul>
         </div>
         <div>
