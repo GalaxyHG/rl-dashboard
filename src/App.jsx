@@ -1,13 +1,9 @@
-import './App.css'
-import Header from './components/Header'
-import Chassis from './pages/Chassis'
+import AppRoutes from './routes'
 
 function App() {
+
   return (
-    <>
-      <Header />
-      <Chassis />
-    </>
+    <AppRoutes />
   )
 }
 
