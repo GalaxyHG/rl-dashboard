@@ -7,6 +7,14 @@ import logout from '../../assets/icons/log-in-1.svg'
 import { Link } from 'react-router-dom'
 
 function Header() {
+  const ativo = (selected) => {
+    let ids = ["home", "car", "pass"]
+    ids.forEach((e)=>{
+      document.getElementById(e+"Button").classList.remove(styles.active)
+    })
+    document.getElementById(selected+"Button").classList.add(styles.active)
+    console.log(selected)
+  } 
   return (
     <>
       <div className={styles.header}>
@@ -26,9 +34,9 @@ function Header() {
         </div>
         <div className={styles.nav_bar}>
             <ul>
-                <li className={styles.active}><img src={home} /><Link to="/">Home</Link></li>
-                <li><img src={car} /> <Link to="/chassis">Chassis</Link></li>
-                <li className={styles.frescura}><img src={award} /><Link to="/pass">Pass</Link></li>
+                <li id="homeButton" onClick={()=>ativo("home")} className={styles.active}><img src={home} /><Link to="/">Home</Link></li>
+                <li id="carButton"  onClick={()=>ativo("car")}><img src={car} /> <Link to="/chassis">Chassis</Link></li>
+                <li id="passButton" onClick={()=>ativo("pass")} className={styles.frescura}><img src={award} /><Link to="/pass">Pass</Link></li>
             </ul>
         </div>
         <div>
