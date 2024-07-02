@@ -1,7 +1,11 @@
+import styles from './Chassis.module.css'
+
 function Chassis() {
     return (
         <>
-            <h1>This is the chassis page</h1>
+            <section className={styles.mainSection}>
+                <h1>This is the Chassis page</h1>
+            </section>
         </>
     )
 }

@@ -1,7 +1,11 @@
+import styles from './News.module.css'
+
 function News() {
     return(
         <>
-            <h1>This is the News page</h1>
+            <section className={styles.mainSection}>
+                <h1>This is the News page</h1>
+            </section>
         </>
     )
 }
