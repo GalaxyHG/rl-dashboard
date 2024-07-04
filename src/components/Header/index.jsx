@@ -34,14 +34,14 @@ function Header() {
         </div>
         <div className={styles.nav_bar}>
             <ul>
-                <li id="homeButton" onClick={()=>ativo("home")} className={styles.active}><img src={home} /><Link to="/">Home</Link></li>
-                <li id="carButton"  onClick={()=>ativo("car")}><img src={car} /> <Link to="/chassis">Chassis</Link></li>
-                <li id="passButton" onClick={()=>ativo("pass")} className={styles.frescura}><img src={award} /><Link to="/pass">Pass</Link></li>
+                <Link id="homeButton" className={`${styles.active} ${styles.btn}`} onClick={()=>ativo("home")} to="/"><img src={home} /> Home</Link>
+                <Link id="carButton" className={styles.btn}  onClick={()=>ativo("car")} to="/chassis"><img src={car} /> Chassis</Link>
+                <Link className={styles.btn} id="passButton" onClick={()=>ativo("pass")} to="/pass"><img src={award} /> Pass</Link>
             </ul>
         </div>
         <div>
             <ul>
-                <li><img src={logout} /><a href="#">Logout</a></li>
+                <Link className={styles.btn} to="#"><img src={logout} />Logout</Link>
             </ul>
         </div>
       </div>

@@ -2,3 +2,10 @@
     width: 100%;
     text-align: center;
 }
+
+.cardsContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 0px 15%;
+}
