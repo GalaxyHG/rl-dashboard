@@ -14,16 +14,16 @@ function Chassis() {
     .catch(error => console.error('Error:', error));
   }, []);
 
-  if (chassis == null) {
-    return (
-      <>
-        <section className={styles.mainSection}>
-          <h1>This is the Chassis page</h1>
-          <p>Carregando chassis...</p>
-        </section>
-      </>
-    )
-  }
+  // if (chassis == null) {
+  //   return (
+  //     <>
+  //       <section className={styles.mainSection}>
+  //         <h1>This is the Chassis page</h1>
+  //         <p>Carregando chassis...</p>
+  //       </section>
+  //     </>
+  //   )
+  // }
 
   return (
     <>
