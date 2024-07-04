@@ -1,12 +1,12 @@
 import styles from './Card.module.css'
-import img from '../../assets/images/octane.webp'
+// import img from '../../assets/images/octane.webp'
 import arrow from '../../assets/icons/arrow-forward.svg'
 
-function Card() {
+function Card({carName, rarity, imgCar}) {
     return (
         <>
             <section className={styles.card}>
-                <div className={styles.imgChassiCar}><img src={img} /></div>
+                <div className={styles.imgChassiCar}><img src={imgCar} /></div>
                 <div className={styles.containerInfo}>
                     <h2 className={styles.carName}>{carName}</h2>
                     <p className={styles.rarity}>{rarity}</p>
@@ -27,4 +27,4 @@ function Card() {
 
 export default Card
 
-// {carName, rarity, imgCar}
+// 
