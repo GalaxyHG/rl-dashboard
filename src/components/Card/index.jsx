@@ -9,7 +9,7 @@ function Card({carName, rarity, imgCar}) {
                 <div className={styles.imgChassiCar}><img src={imgCar} /></div>
                 <div className={styles.containerInfo}>
                     <h2 className={styles.carName}>{carName}</h2>
-                    <p className={styles.rarity}>{rarity}</p>
+                    <p className={styles.rarity}>Rarity: {rarity}</p>
                     <button className={styles.seeMoreBtn}>See more <img src={arrow} /></button>
                 </div>
             </section>
@@ -26,5 +26,3 @@ function Card({carName, rarity, imgCar}) {
 }
 
 export default Card
-
-// 
